@@ -71,5 +71,5 @@
   </a>
   
   ###
-  <img src="https://raw.githubusercontent.com/mariabrodowska/mariabrodowska/output/snake.svg" alt="Snake animation" width="75%"/>
+  <img src="https://raw.githubusercontent.com/mariabrodowska/mariabrodowska/output/snake.svg" alt="Snake animation" width="70%"/>
 </div>
